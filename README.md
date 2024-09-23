@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/pollipayne/yarn-minder">
-    <img src="./public/assets/img/yarn-logo-white.jpg" alt="yarn" width="200" height="150">
+    <img src="./public/assets/img/yarn-logo.png" alt="yarn" width="200" height="150">
   </a>
 
 <h3 align="center">Yarn Minder</h3>
@@ -127,7 +127,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
-   git remote set-url origin github_username/repo_name
+   git remote set-url origin pollipayne/yarn-minder
    git remote -v # confirm the changes
    ```
 
@@ -179,7 +179,7 @@ Don't forget to give the project a star! Thanks again!
 ### Top contributors:
 
 <a href="https://github.com/pollipayne/yarn-minder/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=pollipayne/yarn-minder" alt="contrib.rocks image" />
 </a>
 
 
@@ -217,16 +217,16 @@ Project Link: [https://github.com/pollipayne/yarn-minder](https://github.com/pol
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/pollipayne/yarn-minder.svg?style=for-the-badge
 [contributors-url]: https://github.com/pollipayne/yarn-minder/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/pollipayne/yarn-minder.svg?style=for-the-badge
 [forks-url]: https://github.com/pollipayne/yarn-minder/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/pollipayne/yarn-minder.svg?style=for-the-badge
 [stars-url]: https://github.com/pollipayne/yarn-minder/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/pollipayne/yarn-minder.svg?style=for-the-badge
 [issues-url]: https://github.com/pollipayne/yarn-minder/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/pollipayne/yarn-minder/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/pollipayne/yarn-minder.svg?style=for-the-badge
+[license-url]: https://github.com/pollipayne/yarn-minder/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
